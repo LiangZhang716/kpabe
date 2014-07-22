@@ -20,5 +20,11 @@ I am also working on parsing policy to make it more user-friendly.
 Welcome to my REU site for more information on the project.
 
   https://sites.google.com/a/ualr.edu/reu-project-by-liang-zhang/
+  
+In addition, some of my code is adapted from junwei-wang's Java realization for
+"ciphertext-policy attribute-based encryption" (CP-ABE). You can go to his website for
+more information on CP-ABE.
+
+http://junwei-wang.github.io/cpabe/
 
 Thanks!
